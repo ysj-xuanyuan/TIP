@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01010767-12</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>777</width>
+		<height>589</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PaperKnifeBlade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>315</ymin>
+			<xmax>511</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

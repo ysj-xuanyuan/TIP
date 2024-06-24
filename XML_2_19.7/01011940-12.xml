@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01011940-12</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>785</width>
+		<height>582</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>287</ymin>
+			<xmax>665</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

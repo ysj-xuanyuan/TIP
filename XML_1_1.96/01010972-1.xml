@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01010972-1</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>735</width>
+		<height>634</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PlasticLighter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>438</ymin>
+			<xmax>231</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

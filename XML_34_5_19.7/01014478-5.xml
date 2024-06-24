@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01014478-5</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>753</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SmallFoldingKnife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>330</ymin>
+			<xmax>236</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

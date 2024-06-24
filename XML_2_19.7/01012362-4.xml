@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01012362-4</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>750</width>
+		<height>523</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PortableBattery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>7</ymin>
+			<xmax>670</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

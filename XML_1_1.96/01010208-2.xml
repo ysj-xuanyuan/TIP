@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01010208-2</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>806</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cai-Dao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>137</ymin>
+			<xmax>466</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

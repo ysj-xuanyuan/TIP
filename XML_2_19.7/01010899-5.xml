@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01010899-5</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>749</width>
+		<height>553</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CigaretteLighter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>165</ymin>
+			<xmax>239</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

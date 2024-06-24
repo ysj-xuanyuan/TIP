@@ -1,0 +1,22 @@
+<annotation>
+	<filename>01001066-4</filename>
+	<object_count>1</object_count>
+	<size>
+		<width>667</width>
+		<height>531</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FeLighter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>234</ymin>
+			<xmax>364</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
